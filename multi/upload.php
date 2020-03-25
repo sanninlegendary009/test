@@ -2,7 +2,7 @@
 
 include "db.php";
 include "class.upload.php";
-
+// este es un comentario de ale :)
 /// mostrar errores
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);

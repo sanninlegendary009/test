@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 // +------------------------------------------------------------------------+
-// | class.upload.php                                                       |
+// | class.upload.php  class                                                     |
 // +------------------------------------------------------------------------+
 // | Copyright (c) Colin Verot 2003-2010. All rights reserved.              |
 // | Version       0.32                                                     |
