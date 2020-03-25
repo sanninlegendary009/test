@@ -1,7 +1,7 @@
 <?php
 
 /**
-* Conexion a la base de datos y funciones
+* Conexion a la base de datos y funciones 1
 **/
 
 function con(){
